@@ -1,4 +1,4 @@
-# Variants of Fuzzy Neural Gas
+# Possibilistic Fuzzy Neural Gas
 ### Neural Gas
  Neural Gas by [T. Martinitz](http://ftp.ks.uiuc.edu/Publications/Papers/PDF/MART91B/MART91B.pdf) is inspired by the Self-Organizing Map for finding optimal data representations based on feature vectors. The algorithm was named **Neural Gas** because of the dynamics of the feature vectors during the adaptation process, which distribute themselves like a gas within the data space. Among the variety of methods that has been developed for clustering, Neural gas uses *prototype-based* approach. Prototype-based technique tries to define clusters using small set of prototypes. Where each prototype tries to represent the group of data points based on similarity measure to the prototype which can be influenced by size and shape of the parameter. Example of prototype based clustering algorithms are:
  
