@@ -17,4 +17,5 @@
   - *Possibilistic* (or Typicality Values): the value of the assignment decreases with the increase in the distance to the prototype.
 
 PFNG can be used to cluster different kind of data:
- - Vectorial data: Contains n-dimensional real valued vectors, and the distance measures used here is squared Euclidean distance. It is defined as D<sub>ij;</sub>
+ - Vectorial data: Contains n-dimensional real valued vectors, and the distance measures used here is squared Euclidean distance. It is defined as 
+ -                                              D<sub>ij;</sub> = d^2<sub>ij;</sub> 
