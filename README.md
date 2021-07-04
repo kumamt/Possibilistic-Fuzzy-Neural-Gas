@@ -17,5 +17,6 @@
   - *Possibilistic* (or Typicality Values): the value of the assignment decreases with the increase in the distance to the prototype.
 
 PFNG can be used to cluster different kind of data:
- - Vectorial data: Contains n-dimensional real valued vectors, and the distance measures used here is squared Euclidean distance. It is defined as 
-                                               D<sub>ij;</sub> = d^2<sub>ij;</sub> 
+ - Vectorial data: Contains n-dimensional real valued vectors, and the distance measures used here is squared Euclidean distance.
+ - Relational data: It is a non vectorial data, the dissimilarity matrix **D** is provided which is of n x n dimension and the matrix is symmetric and complete. e.g. music, text, gene sequence etc.
+ - Median data: Contains n x n dimensional data, the data has same properties as Relational data.
