@@ -12,7 +12,7 @@
  - Fuzzy Self Organizing Map
  - Fuzzy Neural Gas
  
- Possibilistic Fuzzy Neural Gas(PFNG) is an extended method of the [Possibilistic Fuzzy C-Means](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1492404). There are two kind of a assignments that are being used:
+ [Possibilistic Fuzzy Neural Gas](https://link.springer.com/content/pdf/10.1007%2F978-3-030-19642-4_26.pdf)(PFNG) is an extended method of the [Possibilistic Fuzzy C-Means](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1492404). There are two kind of a assignments that are being used:
   - *Probabilistic* (or Membership Value): which ranges [0, 1] and for each data point to all the prototypes the values should sums up to 1.
   - *Possibilistic* (or Typicality Values): the value of the assignment decreases with the increase in the distance to the prototype.
 
